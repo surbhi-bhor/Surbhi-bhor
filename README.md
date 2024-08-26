@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for guidance with **navigating this dynamic field of data**
 
-- 💬 Ask me about **ETL, API Automation, MEAN Stack**
+- 💬 Ask me about **Data Engineering & API Automation**
 
 - 📫 How to reach me **work.surbhibhor@gmail.com**
 
