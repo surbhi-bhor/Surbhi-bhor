@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently pursuing **Master's in Information Management, University of Illinois Urbana Champaign**
+- 🔭 Graduated with **Master's in Information Management from University of Illinois Urbana Champaign** - May 2024
 
 - 🌱 I’m currently learning **Spark, Hadoop, AWS & Azure Data engineering services**
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **ETL, API Automation, MEAN Stack**
 
-- 📫 How to reach me **surbhi.bhor@gmail.com**
+- 📫 How to reach me **work.surbhibhor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
